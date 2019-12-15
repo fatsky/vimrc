@@ -69,3 +69,7 @@ colorscheme desert
 "主题
 set tabstop=4
 "Tab的缩进为4]
+
+set nobackup
+set noswapfile
+set noundofile
